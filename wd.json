@@ -6,12 +6,6 @@
     "website_url": "https://decentcoachingclasses.web.app/"
   },
   {
-    "name": "Decent CBSE – Educational Website",
-    "image_url": "https://i.postimg.cc/Bv0WSBkR/cbse.jpg",
-    "description": "A professionally designed website for a CBSE school, combining a clean layout, responsive design, and user-centric navigation to effectively showcase institutional information and updates.",
-    "website_url": "https://decentcbse.web.app/"
-  },
-  {
     "name": "CourtConnect – Legal Case Search Platform",
     "image_url": "https://i.postimg.cc/wM3ZffRR/searchengine.jpg",
     "description": "A dynamic and responsive web app for streamlined legal case research. It features advanced exact and partial match search, category-based filters, and a modern dark-themed UI—powered by a structured case law database, secured by Google for reliable access and data protection.",
@@ -22,6 +16,12 @@
     "image_url": "https://i.postimg.cc/yNXMkSzx/dbmgmt.jpg",
     "description": "A secure and role-based case law management system designed for collaborative data entry and verification. Interns can log in and submit case details through a structured form, while admins access a dedicated dashboard to review, edit, and approve submissions before they are added to the main database. Features include separate login panels for interns and admins, real-time data handling, and a clean, responsive interface—secured by Google for safe access and authentication.",
     "website_url": "https://courtconnectdb.onrender.com/"
+  },
+  {
+    "name": "Decent CBSE – Educational Website",
+    "image_url": "https://i.postimg.cc/Bv0WSBkR/cbse.jpg",
+    "description": "A professionally designed website for a CBSE school, combining a clean layout, responsive design, and user-centric navigation to effectively showcase institutional information and updates.",
+    "website_url": "https://decentcbse.web.app/"
   },
   {
     "name": "Linking Website",
