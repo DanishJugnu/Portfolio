@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Reel for Brand Promotion A",
+    "embed_code": "<iframe src=\"https://www.instagram.com/reel/ABC123XYZ/embed\" width=\"400\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
+  },
+  {
+    "title": "Reel for Event Highlight B",
+    "embed_code": "<iframe src=\"https://www.instagram.com/reel/DEF456UVW/embed\" width=\"400\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
+  },
+  {
+    "title": "Reel for Product Launch C",
+    "embed_code": "<iframe src=\"https://www.instagram.com/reel/GHI789RST/embed\" width=\"400\" height=\"480\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
+  }
+]
