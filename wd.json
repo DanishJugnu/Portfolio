@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Decent Coaching Classes – Educational Website",
+    "image_url": "https://i.imgur.com/sample-site-x.jpg",
+    "description": "An elegant and responsive website built for a coaching institute, featuring a clean UI, intuitive structure, and a professional design focused on accessibility and user experience.",
+    "website_url": "https://decentcoachingclasses.web.app/"
+  },
+  {
+    "name": "Decent CBSE – Educational Website",
+    "image_url": "https://i.imgur.com/sample-store-y.jpg",
+    "description": "A professionally designed website for a CBSE school, combining a clean layout, responsive design, and user-centric navigation to effectively showcase institutional information and updates.",
+    "website_url": "https://decentcbse.web.app/"
+  },
+  {
+    "name": "CourtConnect – Legal Case Search Platform",
+    "image_url": "https://i.imgur.com/sample-store-y.jpg",
+    "description": "A dynamic and responsive web app for streamlined legal case research. It features advanced exact and partial match search, category-based filters, and a modern dark-themed UI—powered by a structured case law database, secured by Google for reliable access and data protection.",
+    "website_url": "https://courtconnect.onrender.com/"
+  },
+  {
+    "name": "CourtConnect – Admin & Intern Case Submission Portal",
+    "image_url": "https://i.imgur.com/sample-store-y.jpg",
+    "description": "A secure and role-based case law management system designed for collaborative data entry and verification. Interns can log in and submit case details through a structured form, while admins access a dedicated dashboard to review, edit, and approve submissions before they are added to the main database. Features include separate login panels for interns and admins, real-time data handling, and a clean, responsive interface—secured by Google for safe access and authentication.",
+    "website_url": "https://courtconnectdb.onrender.com/"
+  },
+  {
+    "name": "Linking Website",
+    "image_url": "https://i.imgur.com/sample-store-y.jpg",
+    "description": "A responsive and dynamic website designed to deliver a smooth user experience, featuring shortcut navigation for quick access to key links. The clean, modern layout ensures easy exploration of content, with seamless transitions and intuitive navigation optimized for all devices.",
+    "website_url": "https://hasanskyscreen.web.app/"
+  },
+]
