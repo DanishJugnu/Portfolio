@@ -1,5 +1,17 @@
 [
   {
+    "name": "KUTEEPIES – Interactive Learning Platform",
+    "image_url": "https://i.postimg.cc/V6j7NxY3/kp.jpg",
+    "description": "A responsive and user-friendly educational platform offering a range of skill-based courses, including Photoshop, Animation, Graphic Design, and Music Production. Designed with accessibility in mind, it features intuitive navigation, interactive lessons, and a clean layout to enhance the learning experience across all devices.",
+    "website_url": "https://kuteepiestesting.web.app/"
+  },
+  {
+    "name": "Sportify Prime FC – Live Sports Event Platform",
+    "image_url": "https://i.postimg.cc/c6qw8HXh/sfc.jpg",
+    "description": "A fully responsive and interactive web application built for streaming live sports events. It features a custom-built video player with advanced controls including play/pause, seek, fullscreen, volume, and responsive scaling—offering a seamless viewing experience. The platform combines intuitive navigation with real-time content updates to ensure smooth performance across all devices.",
+    "website_url": "https://sportifyprimefc.web.app/"
+  },
+  {
     "name": "Decent Coaching Classes – Educational Website",
     "image_url": "https://i.postimg.cc/d1szdtqB/dcc.jpg",
     "description": "An elegant and responsive website built for a coaching institute, featuring a clean UI, intuitive structure, and a professional design focused on accessibility and user experience.",
