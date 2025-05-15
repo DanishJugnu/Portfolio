@@ -8,7 +8,8 @@
   {
     "name": "LoanPulse Notify – Due Date Reminder System",
     "image_url": "https://i.postimg.cc/fLGj31SV/image.png",
-    "description": "LoanPulse Notify – Due Date Reminder System is a software solution designed to manage loan repayments. It connects with Google Sheets to track due dates and sends email reminders to users, ensuring they never miss a payment. The system includes a scheduling mechanism, secure authentication with service account credentials, and real-time logging for reliability."
+    "description": "LoanPulse Notify – Due Date Reminder System is a software solution designed to manage loan repayments. It connects with Google Sheets to track due dates and sends email reminders to users, ensuring they never miss a payment. The system includes a scheduling mechanism, secure authentication with service account credentials, and real-time logging for reliability.",
+    "website_url": "https://sportifyprimefc.web.app/"
   },
   {
     "name": "Sportify Prime FC – Live Sports Event Platform",
