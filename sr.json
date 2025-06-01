@@ -1,16 +1,4 @@
 [
-  {
-    "title": "Text with Animated Avatar",
-    "embed_code": "<iframe src=\"https://www.instagram.com/reel/DHOzgqJqTHx/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
-  },
-  {
-    "title": "Text with Animated Avatar",
-    "embed_code": "<iframe src=\"https://www.instagram.com/reel/DHthLB3TEGm/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
-  },
-{
-    "title": "Text with Animated Avatar",
-    "embed_code": "<iframe src=\"https://www.instagram.com/reel/DIfdXexKVMT/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
-  },
 {
     "title": "Makeup Artist Reel Edit",
     "embed_code": "<iframe src=\"https://www.instagram.com/reel/DColjUkIdjR/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
@@ -34,5 +22,17 @@
   {
     "title": "Ad/Promo Video",
     "embed_code": "<iframe src=\"https://www.instagram.com/reel/DG6RvL2M4Tp/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
+  },
+  {
+    "title": "Text with Animated Avatar",
+    "embed_code": "<iframe src=\"https://www.instagram.com/reel/DHOzgqJqTHx/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
+  },
+  {
+    "title": "Text with Animated Avatar",
+    "embed_code": "<iframe src=\"https://www.instagram.com/reel/DHthLB3TEGm/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
+  },
+{
+    "title": "Text with Animated Avatar",
+    "embed_code": "<iframe src=\"https://www.instagram.com/reel/DIfdXexKVMT/embed\" width=\"360\" height=\"640\" frameborder=\"0\" scrolling=\"no\" allowtransparency=\"true\"></iframe>"
   }
 ]
