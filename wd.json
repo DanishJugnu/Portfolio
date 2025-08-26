@@ -1,37 +1,37 @@
 [
   {
     "name": "Milk Booking Website",
-    "image_url": "https://i.postimg.cc/V6j7NxY3/kp.jpg",
+    "image_url": "https://i.postimg.cc/PfRqNCJ4/milk.png",
     "description": "A user-friendly web application for scheduling daily or weekly milk deliveries, allowing customers to place bookings and track orders while providing admins with simple tools to manage subscriptions and deliveries.",
     "website_url": "https://shivrajdairyfarm.web.app/"
   },
   {
     "name": "Basic Hotel Order Management",
-    "image_url": "https://i.postimg.cc/V6j7NxY3/kp.jpg",
+    "image_url": "https://i.postimg.cc/G4m1tF6G/Screenshot-2025-08-27-003901.png",
     "description": "A lightweight restaurant order management system that enables customers to browse menus, place orders, and track status, while providing admins with an easy dashboard to manage orders efficiently.",
     "website_url": "https://creativeledgertesting014.web.app/"
   },
   {
     "name": "Basic Ecom",
-    "image_url": "https://i.postimg.cc/V6j7NxY3/kp.jpg",
+    "image_url": "https://i.postimg.cc/Zvx1Kncw/Screenshot-2025-08-27-003934.png",
     "description": "A simple yet functional e-commerce website featuring product listings, add-to-cart functionality, and a streamlined checkout process — built to demonstrate core web development and responsive design skills.",
     "website_url": "https://rajconcretes.com/"
   },
   {
     "name": "Background Remover",
-    "image_url": "https://i.postimg.cc/V6j7NxY3/kp.jpg",
+    "image_url": "https://i.postimg.cc/Sn1bMXp5/Screenshot-2025-08-27-003955.png",
     "description": "An AI-powered demo website that allows users to upload images and instantly remove or replace backgrounds with a clean, intuitive interface — built to highlight image processing and user-friendly design skills.",
     "website_url": "https://bgcleaned.web.app/"
   },
   {
-    "name": "Hotel Website",
-    "image_url": "https://i.postimg.cc/V6j7NxY3/kp.jpg",
+    "name": "Homestay Website",
+    "image_url": "https://i.postimg.cc/p99bY2Wd/Screenshot-2025-08-27-004029.png",
     "description": "A professional hotel demo website highlighting elegant rooms, premium amenities, and a seamless booking experience — built to demonstrate responsive design and clean aesthetics.",
     "website_url": "https://alfuvilla.web.app/"
   },
   {
     "name": "Dummy E-Com Website",
-    "image_url": "https://i.postimg.cc/V6j7NxY3/kp.jpg",
+    "image_url": "https://i.postimg.cc/jwNpmZJ0/Screenshot-2025-08-27-004058.png",
     "description": "A modern and user-friendly e-commerce platform where customers can explore a wide range of dummy products, add items to their cart, and experience seamless checkout — built purely for demo and testing purposes.",
     "website_url": "https://dummyecom.web.app/"
   },
